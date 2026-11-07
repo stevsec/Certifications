@@ -8,6 +8,3 @@ List of my current certifications
 <img width="80" height="80" alt="itil®_4_foundation_certificate_in_it_service_management_badge (1)" src="https://github.com/user-attachments/assets/8a2b02bd-1693-442a-891f-17e35083a08c" />
 <img width="90" height="90" alt="comptia-a-ce-certification 1" src="https://github.com/user-attachments/assets/e610ed8c-5083-49fd-a21a-705241bcaae2" />
 <img width="85" height="85" alt="aws-certified-cloud-practitioner (1)" src="https://github.com/user-attachments/assets/66391737-c1af-45a0-82b5-84134bba87a4" />
-
-- https://wguexams.github.io/
-- https://www.reddit.com/r/WGU/comments/1gpv53r/d281_linux_foundations_lpi_linux_essentials_exam/
